@@ -1,5 +1,5 @@
 # Two Sum Solution in Java
-[LeetCode URL](https://leetcode.com/problems/two-sum/description/)
+**LeetCode Problem Link**: [Two Sum](https://leetcode.com/problems/two-sum/)
 
 ### Problem Description
 
