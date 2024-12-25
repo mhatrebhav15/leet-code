@@ -1,7 +1,7 @@
 /**
  * 
  */
-package easy;
+package easy.math;
 
 import java.util.HashMap;
 import java.util.Map;

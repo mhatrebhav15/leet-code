@@ -1,5 +1,10 @@
-package easy;
+package easy.string;
 
+/**
+ * 
+ * https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+ * 
+ */
 public class ReverseVowelsOfAString {
 
 	public static void main(String[] args) {

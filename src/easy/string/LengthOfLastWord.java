@@ -1,7 +1,7 @@
 /**
  * 
  */
-package easy;
+package easy.string;
 
 /**
  * Given a string s consisting of some words separated by some number of spaces,

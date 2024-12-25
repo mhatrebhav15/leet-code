@@ -1,7 +1,10 @@
-package easy;
+package easy.string;
 
 import java.util.StringJoiner;
 
+/**
+ * https://leetcode.com/problems/reverse-words-in-a-string/description/
+ */
 public class ReverseWordsInAString {
 	
 	public static void main(String[] args) {

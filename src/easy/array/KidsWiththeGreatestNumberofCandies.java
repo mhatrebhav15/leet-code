@@ -1,10 +1,13 @@
-package easy;
+package easy.array;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/
+ */
 public class KidsWiththeGreatestNumberofCandies {
 
 	public static void main(String[] args) {

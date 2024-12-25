@@ -1,4 +1,4 @@
-package easy;
+package easy.string;
 
 /**
  * For two strings s and t, we say "t divides s" if and only if s = t + t + t +

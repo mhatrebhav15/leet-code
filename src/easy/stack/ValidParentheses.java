@@ -1,7 +1,7 @@
 /**
  * 
  */
-package easy;
+package easy.stack;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -10,6 +10,9 @@ import java.util.Map;
 import java.util.Stack;
 
 /**
+ * 
+ * https://leetcode.com/problems/valid-parentheses/description/
+ * 
  * @author bhavesh
  *
  */

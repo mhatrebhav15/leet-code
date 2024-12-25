@@ -1,4 +1,4 @@
-package easy;
+package easy.array;
 
 import java.util.Collection;
 import java.util.HashMap;
@@ -6,6 +6,9 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
+/**
+ * https://leetcode.com/problems/unique-number-of-occurrences/description/
+ */
 public class UniqueNumberOfOccurrences {
 
 	public static void main(String[] args) {

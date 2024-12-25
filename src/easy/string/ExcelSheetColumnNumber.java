@@ -1,4 +1,4 @@
-package easy;
+package easy.string;
 
 /**
  * https://leetcode.com/problems/excel-sheet-column-number/description/
