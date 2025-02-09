@@ -7,3 +7,8 @@ A collection of my solutions to LeetCode problems. Solutions are organized by di
 - Dynamic Programming
 - Strings
 - Linked Lists
+
+
+## Questions
+
+14. Longest Common Prefix [Solution](https://github.com/mhatrebhav15/leet-code/blob/main/src/easy/string/LongestCommonPrefix.java)
